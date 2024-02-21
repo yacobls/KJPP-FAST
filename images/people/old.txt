@@ -1,0 +1,327 @@
+<!-- Founding Partners -->
+    <section style="background-color: white" class="our_team_area">
+        <div class="container">
+            <div class="tittle wow fadeInUp">
+                <h2 style="color: black">Founding Partners</h2>
+                <!-- <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4> -->
+            </div>
+
+                <!-- suryantoro -->
+                <div class="row team_row">
+                <div class="col-md-3 col-sm-6 wow fadeInUp">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/suryantoro.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/suryantoro.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                                <a style="color: black" href="cv/suryantoro.html" class="name">Ir. Suryantoro Budisusilo, MSc</a>
+                                <h6 style="color: black">Senior Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- firman -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/firman.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/firman.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/firman.html" class="name">Ir. FirmanSagaf, MSc</a>
+                            <h6 style="color: black">Managing Partner</h6></p>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- sugeng -->
+                 <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/sugeng.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/sugeng.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/sugeng.html" class="name">Ir. Sugeng Priyatno</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- suzy -->
+                 <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/suzi.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/suzy.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/suzy.html" class="name">Ir. Suzy Israwati</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+                <!-- hartomo -->
+                <!-- <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div class="team_membar">
+                        <img src="images/team/tm-2.jpg" alt="">
+                        <div class="team_content">
+                            <ul>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <a href="#" class="name">Hartomo Martodarmodjo, MSc</a>
+                            <h6>Partner</h6>
+                        </div>
+                   </div>
+                </div> -->
+                <!-- prabowo -->
+                <!-- <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div class="team_membar">
+                        <img src="images/people/prabowo.jpg" alt="">
+                        <div class="team_content">
+                            <ul>
+                                <li><a href="cv/prabowo.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                            </ul>
+                             <a href="cv/prabowo.html" class="name">Drs. Prabowo Soenirman, Akt</a>
+                            <h6>Partner (non signing)</h6>
+                        </div>
+                   </div>
+                </div> -->
+
+                <!-- <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div class="team_membar">
+                        <img src="images/people/susniati.jpg" alt="">
+                        <div class="team_content">
+                           <ul>
+                                <li><a href="cv/susniati.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <a href="cv/susniati.html" class="name">Susniati Rachmadi</a>
+                            <h6>Partner (non signing)</h6>
+                        </div>
+                   </div>
+                </div> -->
+
+                <!-- <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div class="team_membar">
+                        <img src="images/people/titiek.jpg" alt="">
+                        <div class="team_content">
+                            <ul>
+                                <li><a href="cv/titiek.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <a href="cv/titiek.html" class="name">Titiek Ramadhona, SE</a>
+                            <h6>Partner (non signing)</h6>
+                        </div>
+                   </div>
+                </div> -->
+
+            </div>
+        </div>
+    </section>
+    <!-- Founding Partners -->
+
+    <!-- Partners -->
+    <section style="background-color: white" class="our_team_area">
+        <div class="container">
+            <div class="tittle wow fadeInUp">
+                <h2 style="padding-top: 1px; color: black">Partners</h2>
+                <!-- <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4> -->
+            </div>
+            
+            <!-- Indra -->
+            <div class="row team_row">
+                <div class="col-md-3 col-sm-6 wow fadeInUp">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/indra.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/indra.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/indra.html" class="name">Drs. Indra Wijaya Moectar, SE, MSc</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Hanandewa -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/hanandewa.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/hanandewa.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/riki.html" class="name">Hanandewa, ST, MM, MSc, DBA</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Dermawan -->
+                 <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/dermawan.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/dermawan.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/dermawan.html" class="name">M. Dermawan, SE</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Arif -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/arief.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/arif.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/arif.html" class="name">Arif Bagus Prasetyo, ST</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Yoseprin -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/yosep.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/yosep.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/yosep.html" class="name">Yoseprin Sitepu, S.Hut</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Alfi -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/alfie.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/alfie.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/yosep.html" class="name">Alfie Zaky, ST</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Yuzrizal -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/yusrizal.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/yusrizal.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/yusrizal.html" class="name">Yusrizal, ST</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Lilik -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/lilik.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/lilik.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/lilik.html" class="name">Lilik Sudarto, S.Pt</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Riki -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/riki.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/riki.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
+                                <!-- <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/riki.html" class="name">Riki Aryadi Nugraha, ST, MM</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+
+                <!-- Win -->
+                <div class="col-md-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
+                   <div style="background-color: #9F9F9F; border-color: #c10000" class="thumbnail team_membar">
+                        <img src="images/people/win.png" alt="">
+                        <div class="team_content" style="background-color: #9F9F9F">
+                            <ul>
+                                <li style="margin-top: 5px"><a href="cv/andriansyah.html"><i class="fa fa-address-card" aria-hidden="true"></i></a></li>
+<!--                                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li> -->
+                            </ul>
+                            <a style="color: black" href="cv/andriansyah.html" class="name">Win Andriansyah, ST</a>
+                            <h6 style="color: black">Partner</h6>
+                        </div>
+                   </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Partners -->
